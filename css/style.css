@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+h1{
+  color:plum;
+  font-style: 48px;
+}
+
+p{
+  font-size:24px
+}
+
+body{
+  background-color: aqua;
+}
